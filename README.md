@@ -8,4 +8,5 @@ Discrete host forensics, cyber incident triage, and criminological profiling for
 
 Contact via secure email to initiate a confidential conflict check and out-of-band intake protocol. 
 
+* **Open-Source Research & Tooling:** ['surface-triage-osint'](https://github.com) - Passive attack-surface & behavioral risk triage utility.
 **Comms Policy:** All consultations and briefings are conducted strictly via encrypted asynchronous text to maintain operational security and documented chain-of-custody.
