@@ -1,4 +1,4 @@
-# NYCTO OPERATIONS AGENCY
+# NYCTO OPERATIONS GROUP
 ### Digital Forensics, Incident Triage & Behavioral Threat Attribution
 
 NYCTO Operations Group provides behind-the-scenes host forensics, memory analysis, and criminological threat profiling for legal counsel, corporate risk teams, and incident response partners.
